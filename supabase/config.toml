@@ -1,0 +1,7 @@
+project_id = "yiahfvqgeljmqljsaqqg"
+
+[functions.gemini-chat]
+verify_jwt = false
+
+[functions.snowflake-rag]
+verify_jwt = false
